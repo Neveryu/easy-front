@@ -1,0 +1,18 @@
+{
+  "name": "easy-front-test-html-css-js",
+  "version": "1.0.0",
+  "description": "easy-front & 快速搭建 html+css+js 开 自动化开发流程",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node build/dev-server.js"
+  },
+  "author": "yu",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "http-proxy-middleware": "^0.18.0"
+  }
+}
